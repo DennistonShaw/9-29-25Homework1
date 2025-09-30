@@ -24,5 +24,3 @@ Teardown instructions
 
 Terminate the EC2 instance: This is the primary action that deletes the virtual server. During termination, all associated data is permanently erased.
 Manual termination: In the AWS Management Console, you navigate to the EC2 Dashboard, select the instance, and choose Instance State > Terminate instance from the Actions menu.
-
-# 9-29-25Homework1
