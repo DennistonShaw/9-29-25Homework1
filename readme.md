@@ -20,4 +20,9 @@ Description - type “webpage”
 Make sure to can make a hyperlink by typing “http://“ before any links are made
 Example: http://ec2-107-21-129-130.compute-1.amazonaws.com
 
+Teardown instructions
+
+Terminate the EC2 instance: This is the primary action that deletes the virtual server. During termination, all associated data is permanently erased.
+Manual termination: In the AWS Management Console, you navigate to the EC2 Dashboard, select the instance, and choose Instance State > Terminate instance from the Actions menu.
+
 # 9-29-25Homework1
